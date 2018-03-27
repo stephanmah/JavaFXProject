@@ -17,7 +17,11 @@ Author
 Stephan Mah
 
 Acknowledgments
+
 Professor Cepeda Mora for guidance
+
 Khalib Morton for proofreading
+
 StackOverflow for code error fixes
+
 Darius Green for CSS advice
